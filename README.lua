@@ -1,4 +1,4 @@
-print("funny")
+--[[print("funny")
 local xyi = true
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Mobile%20Friendly%20Orion')))()
 local UserInputService = game:GetService("UserInputService")
